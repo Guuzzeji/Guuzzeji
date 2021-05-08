@@ -1,5 +1,7 @@
-- Hi, I’m @Guuzzeji
-- How to reach me: discord@ Guuzzeji#2245 Reddit@ /u/Guuzzeji
+# Hi, I’m @Guuzzeji
+- Yes, I make random stuff with code.
+- [Google Play Store](https://play.google.com/store/apps/dev?id=8811179052647684207) 
+- How to reach me: discord@Guuzzeji#2245 Reddit@/u/Guuzzeji
 
 <!---
 Guuzzeji/Guuzzeji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
