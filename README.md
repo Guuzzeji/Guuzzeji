@@ -1,6 +1,6 @@
 # Hi, I’m @Guuzzeji
 
-<a href="https://github.com/Guuzzeji/"><img align="right" src="/computer.gif"></a>
+<a href="https://github.com/Guuzzeji/"><img align="right" src="/computer.gif" width="400" height="400"></a>
 
 Yes, I make random stuff with code.
 
