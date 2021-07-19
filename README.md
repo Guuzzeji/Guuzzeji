@@ -8,8 +8,11 @@ Yes, I make random stuff with code.
 - Discord@Guuzzeji#2245 
 - Reddit@/u/Guuzzeji
 
-- [Google Play Store](https://play.google.com/store/apps/dev?id=8811179052647684207) 
-- [itch.io](https://guuzzeji.itch.io/)
+<br>
+
+<a href="https://play.google.com/store/apps/dev?id=8811179052647684207"><img src="/google-play.png" width="200" height="60"></a>
+
+<a href="https://guuzzeji.itch.io/"><img src="/itchio-logo.png" width="200" height="65"></a>
 
 <!---
 Guuzzeji/Guuzzeji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
