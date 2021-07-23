@@ -5,8 +5,9 @@
 Yes, I make random stuff with code.
 
 **How To Reach Me**
-- Discord@Guuzzeji#2245 
-- Reddit@/u/Guuzzeji
+- Discord: Guuzzeji#2245 
+- Reddit: /u/Guuzzeji
+- Email: gabe.business.code@outlook.com
 
 <br>
 <br>
