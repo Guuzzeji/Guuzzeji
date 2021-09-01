@@ -4,6 +4,8 @@
 
 Yes, I make random stuff with code.
 
+My Portfolio Page: https://guuzzeji.github.io/myportfolio/
+
 **How To Reach Me**
 - Discord: Guuzzeji#2245 
 - Reddit: /u/Guuzzeji
