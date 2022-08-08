@@ -11,6 +11,8 @@
 
 ---
 
+Hi, my name is Gabe (I also go by Guuzzeji) and I'm a young self-taught developer that really enjoys technology, along with creating stuff. I mostly work with Node.js and JavaScript; however, I do understand a good chunk of Python. Plus, I am always open to learning a new programming language and new things because that is how you grow as a developer. 
+
 My Portfolio Page, https://guuzzeji.github.io/myportfolio/
 
 **💬 How To Reach Me / Follow Me**
@@ -18,8 +20,6 @@ My Portfolio Page, https://guuzzeji.github.io/myportfolio/
 - Reddit: [/u/Guuzzeji](https://www.reddit.com/user/Guuzzeji/)
 - Email: gabe.business.code@outlook.com
 - YouTube: https://www.youtube.com/channel/UCIpYhVJJJNb71Y9IJyCM3Bg
-
-Hi, my name is Gabe (I also go by Guuzzeji) and I'm a young self-taught developer that really enjoys technology, along with creating stuff. I mostly work with Node.js and JavaScript; however, I do understand a good chunk of Python. Plus, I am always open to learning a new programming language and new things because that is how you grow as a developer. 
 
 <!---
 Guuzzeji/Guuzzeji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
