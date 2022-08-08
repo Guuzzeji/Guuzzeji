@@ -4,8 +4,12 @@
 
 ---
 
-<a href="https://play.google.com/store/apps/dev?id=8811179052647684207"><img src="/google-play.png" width="25%" align="right"></a>
-<a href="https://guuzzeji.itch.io/"><img src="/itchio-logo.png" width="20%" align="right"></a>
+<p align="center">
+  <a href="https://guuzzeji.itch.io/"><img src="/itchio-logo.png" width="20%"></a>
+  <a href="https://play.google.com/store/apps/dev?id=8811179052647684207"><img src="/google-play.png" width="24%"></a>
+</p>
+
+---
 
 My Portfolio Page, https://guuzzeji.github.io/myportfolio/
 
