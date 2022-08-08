@@ -1,11 +1,11 @@
 <p align="center">
-  <img align="center" src="/logo_banner.png" width="1000" height="400">
+  <img align="center" src="/logo_banner.png" width="100%">
 </p>
 
 ---
 
-<a href="https://play.google.com/store/apps/dev?id=8811179052647684207"><img src="/google-play.png" width="200" height="60" align="right"></a>
-<a href="https://guuzzeji.itch.io/"><img src="/itchio-logo.png" width="200" height="65" align="right"></a>
+<a href="https://play.google.com/store/apps/dev?id=8811179052647684207"><img src="/google-play.png" width="25%" align="right"></a>
+<a href="https://guuzzeji.itch.io/"><img src="/itchio-logo.png" width="20%" align="right"></a>
 
 My Portfolio Page, https://guuzzeji.github.io/myportfolio/
 
