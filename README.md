@@ -16,7 +16,7 @@ Hi, my name is Gabe (I also go by Guuzzeji) and I'm a young self-taught develope
 My Portfolio Page, https://guuzzeji.github.io/myportfolio/
 
 **💬 How To Reach Me / Follow Me**
-- Discord: Guuzzeji#2245 
+- Discord: @Guuzzeji 
 - Reddit: [/u/Guuzzeji](https://www.reddit.com/user/Guuzzeji/)
 - Email: gabe.business.code@outlook.com
 - YouTube: https://www.youtube.com/channel/UCIpYhVJJJNb71Y9IJyCM3Bg
