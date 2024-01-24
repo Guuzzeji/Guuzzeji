@@ -18,6 +18,7 @@ My Portfolio Page, https://guuzzeji.github.io/myportfolio/
 **💬 How To Reach Me / Follow Me**
 - Discord: @Guuzzeji 
 - Reddit: [/u/Guuzzeji](https://www.reddit.com/user/Guuzzeji/)
+- Twitter / X: [@Guuzzeji](https://twitter.com/Guuzzeji)
 - Email: gabe.business.code@outlook.com
 - YouTube: https://www.youtube.com/channel/UCIpYhVJJJNb71Y9IJyCM3Bg
 
