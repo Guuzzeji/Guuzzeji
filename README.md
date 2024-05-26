@@ -20,7 +20,7 @@ My Portfolio Page, https://guuzzeji.github.io/myportfolio/
 - Reddit: [/u/Guuzzeji](https://www.reddit.com/user/Guuzzeji/)
 - Twitter / X: [@Guuzzeji](https://twitter.com/Guuzzeji)
 - Email: gabe.business.code@outlook.com
-- YouTube: https://www.youtube.com/channel/UCIpYhVJJJNb71Y9IJyCM3Bg
+- YouTube: https://www.youtube.com/@guuzzeji868
 
 <!---
 Guuzzeji/Guuzzeji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
