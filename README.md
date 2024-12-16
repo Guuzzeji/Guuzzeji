@@ -21,6 +21,7 @@ My Portfolio Page, https://guuzzeji.github.io/myportfolio/
 - Twitter / X: [@Guuzzeji](https://twitter.com/Guuzzeji)
 - Email: gabe.business.code@outlook.com
 - YouTube: https://www.youtube.com/@guuzzeji
+- BlueSky: [@guuzzeji.bsky.social](https://bsky.app/profile/guuzzeji.bsky.social)
 
 <!---
 Guuzzeji/Guuzzeji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
