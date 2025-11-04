@@ -13,7 +13,7 @@
 
 Hi, my name is Gabe (I also go by Guuzzeji) and I'm a young self-taught developer that really enjoys technology, along with creating stuff. I mostly work with Node.js and JavaScript; however, I do understand a good chunk of Python. Plus, I am always open to learning a new programming language and new things because that is how you grow as a developer. 
 
-My Portfolio Page, https://guuzzeji.github.io/myportfolio/
+My Portfolio Page - https://guuzzeji.dev/
 
 **💬 How To Reach Me / Follow Me**
 - Discord: @Guuzzeji 
