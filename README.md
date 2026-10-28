@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://guuzzeji.dev/"><img src="https://img.shields.io/badge/portfolio-guuzzeji.dev-007AFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://backr00m.xyz/"><img src="https://img.shields.io/badge/bl0g-BACKR00M-d8c76a?style=for-the-badge&logo=rss&logoColor=black" alt="Blog"></a>
-  <a href="https://guuzzeji.itch.io/"><img src="https://img.shields.io/badge/itch.io-games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
-  <a href="https://play.google.com/store/apps/dev?id=8811179052647684207"><img src="https://img.shields.io/badge/Google_Play-apps-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"></a>
+  <!-- <a href="https://guuzzeji.itch.io/"><img src="https://img.shields.io/badge/itch.io-games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
+  <a href="https://play.google.com/store/apps/dev?id=8811179052647684207"><img src="https://img.shields.io/badge/Google_Play-apps-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"></a> -->
 </p>
 
 ---
