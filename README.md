@@ -24,7 +24,11 @@ I build **weird and funny things**. Sometimes they're useful. Sometimes I static
 - 🎮 Game jams whenever I can sneak one in
 - 📝 I write random notes over at the [BACKR00M](https://backr00m.xyz/). Watch where you step
 
+
+<!---
+
 <br clear="right">
+
 
 ### 🍔 Stuff I've made
 
@@ -35,6 +39,8 @@ I build **weird and funny things**. Sometimes they're useful. Sometimes I static
 | 📬 [**freshbatch-job-finder**](https://github.com/Guuzzeji/freshbatch-job-finder) | Tracks job postings across GitHub and fires them to subscribers over signed webhooks |
 | ✂️ [**youtube-scissors-cli**](https://github.com/Guuzzeji/youtube-scissors-cli) | Chops a YouTube video into separate clips using its timestamps |
 | 📼 [**vidzit-dl**](https://github.com/Guuzzeji/vidzit-dl) | Reddit video downloader built on ffmpeg.wasm |
+
+--->
 
 ### 📡 Find me in the wild
 
